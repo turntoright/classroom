@@ -1,0 +1,11 @@
+{
+  "name": "classroom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:turntoright/classroom.git",
+  "author": "turntoright <hongwucao1975@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.12.13"
+  }
+}
