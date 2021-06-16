@@ -19,8 +19,8 @@ class Funiture {
     }
 }
 
-// Classroom class
-class ClassRoom {
+// Room class
+class Room {
     roomType: RoomType;
     furnitures: Funiture[];
     buildings: string[];
@@ -35,6 +35,6 @@ class ClassRoom {
 /* 
 let funiture1 = new Funiture('chairs', 10);
 let funiture2 = new Funiture('desk', 8);
-let room1 = new ClassRoom(RoomType.Workshop, [funiture1, funiture2], ['building1', 'building2']);
+let room1 = new Room(RoomType.Workshop, [funiture1, funiture2], ['building1', 'building2']);
 console.log(room1);
 */
